@@ -2,7 +2,9 @@
 <!--- -- Custom Designed Banner ---------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-![github profile](https://github.com/user-attachments/assets/7b417eb9-be62-40cc-a60f-e8c797f836ab)
+![github contribution grid snake animation](https://raw.githubusercontent.com/bjmmtin/bjmmtin/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/bjmmtin/bjmmtin/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Visitor Badge + Links ----------------------------------------------------------------------------------------------------------------------------- -->
