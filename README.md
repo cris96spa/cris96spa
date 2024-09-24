@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/cristian-c-spagnuolo/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
   <a href="mailto:cristian.c.spagnuolo@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
   <a href="https://github.com/cris96spa"><img src="https://img.shields.io/badge/GitHub-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209" /></a>
-  <a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Cristian#6950" ></a>
+  <a href="https://discordapp.com/users/327456428937707520"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Cristian#6950" ></a>
 </div>
 <br>
 
@@ -22,7 +22,7 @@
 <!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-<p align="center">My name is Cristian C. Spagnuolo. I'm an AI Engineer with a passion for solving complex machine learning problems and creating innovative AI solutions. With a strong background in computer vision (CV), large language models (LLMs), and AI model deployment, I work on designing and building scalable machine learning models. I enjoy learning and pushing the boundaries of AI technologies, always seeking new challenges.</p>
+<p align="center">My name is Cristian C. Spagnuolo. I'm an AI Engineer passionate about solving complex machine-learning problems and creating innovative AI solutions. With a strong background in computer vision (CV), large language models (LLMs), and AI model deployment, I work on designing and building scalable machine learning models. I enjoy learning and pushing the boundaries of AI technologies, always seeking new challenges.</p>
 
 ### <p align="center">My Technical Skills</p>
 
@@ -39,9 +39,9 @@
 
 <i>&nbsp; Work with dedication, and learn something new every day!</i><br><br>
 
-👋 Hello, and thanks for stopping by! I’m Cristian C. Spagnuolo, currently working as an AI Engineer at **ML Cube** in Milan, Italy. I specialize in building machine learning models, particularly for computer vision and large language models, while continuously monitoring, evaluating, and refining these models for optimal performance.
+👋 Hello, and thanks for stopping by! I’m Cristian C. Spagnuolo, an AI Engineer at **ML Cube** in Milan, Italy. I specialize in building machine learning models, particularly for computer vision and large language models, while continuously monitoring, evaluating, and refining these models for optimal performance.
 
-🎓 I hold a **Master's Degree** in Computer Science and Engineering from Politecnico di Milano, graduating **cum laude**. My undergraduate degree in the same field was from Università degli Studi del Sannio, where I also graduated with the highest honors.
+🎓 I hold a **Master's Degree** in Computer Science and Engineering from Politecnico di Milano, graduating **cum laude**. My undergraduate degree in the same field was from Università degli Studi del Sannio, where I also graduated with the highest honours.
 
 📈 In my recent work, I have designed, evaluated, and deployed machine learning models to solve real-world business problems, using data cleaning, exploration, and pre-processing to build robust AI pipelines. My skills include deploying models and retraining them based on ongoing performance metrics.
 
@@ -50,30 +50,31 @@
 - **[Teleport Markov Decision Process](https://github.com/cris96spa/TMDP):** A curriculum learning approach to accelerate machine learning using teleportation mechanisms.
 - **[Time Series Forecasting](https://github.com/cris96spa/Time-Series-Forecasting):** Advanced deep learning techniques to predict multivariate time series data.
 
-📫 Feel free to reach out to me via email or connect with me on LinkedIn. Let’s collaborate on exciting AI projects!
+📫 Feel free to contact me via email or connect with me on LinkedIn. Let’s collaborate on exciting AI projects!
 
-## Latest Blog Posts  
+<!--## Latest Blog Posts  
 
 <a href="https://medium.com/@cris96spa"><img src="https://img.shields.io/badge/medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
 - Coming soon!
 <!-- BLOG-POST-LIST:END -->
-
+<!--
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ---
+-->
+# Tech Stack <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 
-# Tech Stack <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
-
- <samp>Tools & Technologies</samp> |  <samp>Badge</samp> |
+<samp>Tools & Technologies</samp> |  <samp>Badge</samp> |
 --- | --- |
-<samp>Machine Learning</samp> | ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)|
-<samp>Cloud Platforms </samp>| ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)|
-<samp>Operating System</samp> | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|
-<samp>Programming Languages</samp> | ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-%230075C6.svg?style=for-the-badge&logo=cplusplus&logoColor=white)|
-<samp>Frameworks</samp> | ![FastAPI](https://img.shields.io/badge/fastapi-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white)|
-<samp>Version Control</samp> | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)|
+<samp>Machine Learning & AI</samp> | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging--Face-%23FFAE33.svg?style=for-the-badge&logo=huggingface&logoColor=white) ![OpenAI Gym](https://img.shields.io/badge/OpenAI--Gym-%23111111.svg?style=for-the-badge&logo=openai&logoColor=white)|
+<samp>Cloud Platforms</samp> | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon%20AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vertex AI](https://img.shields.io/badge/VertexAI-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)|
+<samp>Operating Systems</samp> | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|
+<samp>Programming Languages</samp> | ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%230075C6.svg?style=for-the-badge&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)|
+<samp>Python Libraries & Tools</samp> | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%23004095.svg?style=for-the-badge&logo=plotly&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-%23FF6F00.svg?style=for-the-badge&logo=xgboost&logoColor=white)|
+<samp>DevOps & CI/CD</samp> | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-%23000000.svg?style=for-the-badge&logo=mlflow&logoColor=white)|
+<samp>Databases</samp> | ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)|
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
