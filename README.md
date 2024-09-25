@@ -1,8 +1,8 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Custom Designed Banner ---------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!---[![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid) ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-[![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/bjmmtin/bjmmtin/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
 
