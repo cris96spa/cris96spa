@@ -17,6 +17,7 @@
   <a href="mailto:cristian.c.spagnuolo@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
   <a href="https://github.com/cris96spa"><img src="https://img.shields.io/badge/GitHub-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209" /></a>
   <a href="https://discordapp.com/users/327456428937707520"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Cristian#6950" ></a>
+  <a href="https://www.cris96spa.com/"><img src="https://img.shields.io/badge/Personal%20Site-d5d5d5?style=for-the-badge&logo=globe&logoColor=0A0209" /></a>
 </div>
 <br>
 
