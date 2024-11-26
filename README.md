@@ -17,7 +17,7 @@
   <a href="mailto:cristian.c.spagnuolo@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
   <a href="https://github.com/cris96spa"><img src="https://img.shields.io/badge/GitHub-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209" /></a>
   <a href="https://discordapp.com/users/327456428937707520"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Cristian#6950" ></a>
-  <a href="https://www.cris96spa.com/"><img src="https://img.shields.io/badge/Personal%20Site-d5d5d5?style=for-the-badge&logo=globe&logoColor=0A0209" /></a>
+  <a href="https://www.cris96spa.com/"><img src="https://img.shields.io/badge/Personal_Website-d5d5d5?style=for-the-badge&logo=googlechrome&logoColor=0A0209" /></a>
 </div>
 <br>
 
@@ -89,20 +89,6 @@
 <hr>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=cris96spa&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="cris96spa" />
-
-<hr>
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- My Socials ---------------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> The Online Hangout
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/cristian-c-spagnuolo/"><img src="https://img.shields.io/badge/linkedin-0A0209?style=for-the-badge&logo=linkedin&logoColor=d5d5d5" /></a>
-  <a href="https://github.com/cris96spa"><img src="https://img.shields.io/badge/github-0A0209?style=for-the-badge&logo=github&logoColor=d5d5d5" /></a>
-  <a href="mailto:cristian.c.spagnuolo@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
-</div>
 
 <hr>
 
