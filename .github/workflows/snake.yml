@@ -13,28 +13,21 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate Snake Animation
-        uses: Platane/snk@v2
+        uses: Platane/snk@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          output: dist/snake.svg
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      - name: Upload Snake Animation
-        uses: actions/upload-artifact@v3
-        with:
-          name: snake
-          path: dist/snake.svg
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-  deploy:
-    needs: generate
-    runs-on: ubuntu-latest
-    steps:
-      - name: Download Snake Animation
-        uses: actions/download-artifact@v3
-        with:
-          name: snake
-
-      - name: Push Snake Animation to GitHub
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
+      - name: Commit and Push Snake Animation
+        run: |
+          git add dist/
+          git commit -m "Update snake animation"
+          git push
