@@ -1,8 +1,50 @@
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,git,gcp" />
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=linux,java,cpp,mysql" />
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=mongodb,vscode" />
+</p>
+
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Custom Designed Banner ---------------------------------------------------------------------------------------------------------------------------- -->
 <!---[![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid) ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
+
 ![GitHub Contribution Grid Snake Animation](https://github.com/cris96spa/cris96spa/blob/main/dist/github-snake.svg)
+<div>
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+👋 Hello, and thanks for visiting! 
+
+I am Cristian C. Spagnuolo, an AI Engineer at ML Cube in Milan, Italy. My work focuses on building robust, production-grade systems in computer vision and natural language processing. I specialize in applying advanced AI techniques to real-world challenges, consistently striving to improve and innovate within the rapidly evolving field of artificial intelligence.
+
+🎓 **Academic Achievements:**
+- Master's Degree in Computer Science and Engineering from **Politecnico di Milano**, graduating **cum laude**.
+- Bachelor's Degree in the same field from **Università degli Studi del Sannio**, also graduating **cum laude**.
+
+📈 **Noteworthy Contributions:**
+- Implemented **segmented monitoring for distribution shifts** on the ML Cube platform.
+- Developed **LLM-based agents** for querying MSSQL databases using LangChain and LangGraph.
+- Designed an **image generator tool** for simulating quantified distribution drift in datasets.
+
+🏆 **Highlighted Projects:**
+- **[Boston Housing Price Prediction](https://github.com/cris96spa/Boston-Housing-Prediction):** An end-to-end ML solution for predicting housing prices with high accuracy.
+- **[Teleport Markov Decision Process](https://github.com/cris96spa/TMDP):** Accelerated curriculum learning framework yielding significant performance improvements.
+- **[Time Series Forecasting](https://github.com/cris96spa/Time-Series-Forecasting):** Achieved top results in forecasting multivariate time series with advanced deep learning.
+
+🎯 **Core Competencies:**
+- Hands-on experience with **Python**, **PyTorch**, **TensorFlow**, **LangChain**, and **Docker**.
+
+- Academic research in reinforcement learning and curriculum learning paradigms.
+
+📫 Reach out via email or LinkedIn to explore collaboration opportunities and exciting AI projects!
+
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Visitor Badge + Links ----------------------------------------------------------------------------------------------------------------------------- -->
@@ -18,56 +60,10 @@
   <a href="https://www.cris96spa.com/"><img src="https://img.shields.io/badge/Personal_Website-d5d5d5?style=for-the-badge&logo=googlechrome&logoColor=0A0209" /></a>
 </div>
 <br>
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-<p align="center">My name is Cristian C. Spagnuolo. I'm an AI Engineer passionate about solving complex machine-learning problems and creating innovative AI solutions. With a strong background in computer vision (CV), large language models (LLMs), and AI model deployment, I work on designing and building scalable machine learning models. I enjoy learning and pushing the boundaries of AI technologies, always seeking new challenges.</p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ### <p align="center">My Technical Skills</p>
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,kubernetes,git" />
-</p>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,linux,java,c,cpp,mysql" />
-</p>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<div>
-
-<i>&nbsp; Work with dedication, and learn something new every day!</i><br><br>
-
-👋 Hello, and thanks for stopping by! I’m Cristian C. Spagnuolo, an AI Engineer at **ML Cube** in Milan, Italy. I specialize in building machine learning models, particularly for computer vision and large language models, while continuously monitoring, evaluating, and refining these models for optimal performance.
-
-🎓 I hold a **Master's Degree** in Computer Science and Engineering from Politecnico di Milano, graduating **cum laude**. My undergraduate degree in the same field was from Università degli Studi del Sannio, where I also graduated with the highest honours.
-
-📈 In my recent work, I have designed, evaluated, and deployed machine learning models to solve real-world business problems, using data cleaning, exploration, and pre-processing to build robust AI pipelines. My skills include deploying models and retraining them based on ongoing performance metrics.
-
-🏆 Some of my key projects include:
-
-- **[Boston Housing Price Prediction](https://github.com/cris96spa/Boston-Housing-Prediction):** End-to-end machine learning project predicting housing prices using Python, Scikit-Learn, and various visualization libraries.
-- **[Teleport Markov Decision Process](https://github.com/cris96spa/TMDP):** A curriculum learning approach to accelerate machine learning using teleportation mechanisms.
-- **[Time Series Forecasting](https://github.com/cris96spa/Time-Series-Forecasting):** Advanced deep learning techniques to predict multivariate time series data.
-
-📫 Feel free to contact me via email or connect with me on LinkedIn. Let’s collaborate on exciting AI projects!
-
-<!--## Latest Blog Posts
-
-<a href="https://medium.com/@cris96spa"><img src="https://img.shields.io/badge/medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white"/></a><br>
-
-<!-- BLOG-POST-LIST:START -->
-
-- Coming soon!
-  <!-- BLOG-POST-LIST:END -->
-  <!--
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
----
-
--->
 
 # Tech Stack <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 
