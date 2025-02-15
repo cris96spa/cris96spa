@@ -22,28 +22,12 @@
 
 👋 Hello, and thanks for visiting! 
 
-I am Cristian C. Spagnuolo, an AI Engineer at ML Cube in Milan, Italy. My work focuses on building robust, production-grade systems in computer vision and natural language processing. I specialize in applying advanced AI techniques to real-world challenges, consistently striving to improve and innovate within the rapidly evolving field of artificial intelligence.
+I am Cristian C. Spagnuolo, an AI Engineer at ML Cube in Milan, Italy. I'm a simple person
+I set goals, push myself to achieve them, and then raise the bar again. 
+AI isn’t just my profession—it’s what I love. I believe that when you’re
+passionate about what you do, you’re never really working.
 
-🎓 **Academic Achievements:**
-- Master's Degree in Computer Science and Engineering from **Politecnico di Milano**, graduating **cum laude**.
-- Bachelor's Degree in the same field from **Università degli Studi del Sannio**, also graduating **cum laude**.
-
-📈 **Noteworthy Contributions:**
-- Implemented **segmented monitoring for distribution shifts** on the ML Cube platform.
-- Developed **LLM-based agents** for querying MSSQL databases using LangChain and LangGraph.
-- Designed an **image generator tool** for simulating quantified distribution drift in datasets.
-
-🏆 **Highlighted Projects:**
-- **[Boston Housing Price Prediction](https://github.com/cris96spa/Boston-Housing-Prediction):** An end-to-end ML solution for predicting housing prices with high accuracy.
-- **[Teleport Markov Decision Process](https://github.com/cris96spa/TMDP):** Accelerated curriculum learning framework yielding significant performance improvements.
-- **[Time Series Forecasting](https://github.com/cris96spa/Time-Series-Forecasting):** Achieved top results in forecasting multivariate time series with advanced deep learning.
-
-🎯 **Core Competencies:**
-- Hands-on experience with **Python**, **PyTorch**, **TensorFlow**, **LangChain**, and **Docker**.
-
-- Academic research in reinforcement learning and curriculum learning paradigms.
-
-📫 Reach out via email or LinkedIn to explore collaboration opportunities and exciting AI projects!
+📫 Reach out via email or LinkedIn to have some nerdy talks.
 
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
