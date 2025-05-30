@@ -22,7 +22,7 @@
 
 👋 Hello, and thanks for visiting! 
 
-I am Cristian C. Spagnuolo, an AI Engineer at ML Cube in Milan, Italy. I'm a simple person
+I am Cristian C. Spagnuolo, a NLP Engineer at Artificialy in Lugano, Switzerland. I'm a simple person
 I set goals, push myself to achieve them, and then raise the bar again. 
 AI isn’t just my profession—it’s what I love. I believe that when you’re
 passionate about what you do, you’re never really working.
