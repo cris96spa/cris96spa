@@ -22,10 +22,9 @@
 
 👋 Hello, and thanks for visiting! 
 
-I am Cristian C. Spagnuolo, a NLP Engineer at Artificialy in Lugano, Switzerland. I'm a simple person
-I set goals, push myself to achieve them, and then raise the bar again. 
-AI isn’t just my profession—it’s what I love. I believe that when you’re
-passionate about what you do, you’re never really working.
+I am Cristian C. Spagnuolo, an NLP Engineer at Artificialy in Lugano, Switzerland. 
+I'm a simple person: I set goals, push myself to achieve them, and then I raise the bar again. 
+If I'm not training models, yI'm probably training myself in the gym.
 
 📫 Reach out via email or LinkedIn to have some nerdy talks.
 
