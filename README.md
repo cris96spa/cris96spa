@@ -24,7 +24,7 @@
 
 I am Cristian C. Spagnuolo, an NLP Engineer at Artificialy in Lugano, Switzerland. 
 I'm a simple person: I set goals, push myself to achieve them, and then I raise the bar again. 
-If I'm not training models, yI'm probably training myself in the gym.
+If I'm not training models, I'm probably training myself in the gym.
 
 📫 Reach out via email or LinkedIn to have some nerdy talks.
 
