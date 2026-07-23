@@ -1,9 +1,8 @@
 # Hi, I'm Cristian
 
 I'm an NLP engineer at Artificialy in Lugano, where I make large language models run
-faster, fit in less GPU memory, and stop confidently making things up. The part I care
-about is the one most people skip: not *that* something works, but *why* - which is how a
-person ends up rebuilding GPT-2 from scratch on weekends.
+faster, fit in less GPU memory, and less confident about things that never happened. The part I care
+about is the one most people skip: not *that* something works, but *why* - that's how I ended up rebuilding GPT-2 from scratch on weekends.
 
 The longer version streams token by token at
 **[cris96spa-latent-space.com](https://www.cris96spa-latent-space.com/)**, a site that
