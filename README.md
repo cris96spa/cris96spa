@@ -1,12 +1,17 @@
 # Hi, I'm Cristian
 
-I'm an NLP engineer at Artificialy in Lugano, where I make large language models run
-faster, fit in less GPU memory, and less confident about things that never happened. The part I care
-about is the one most people skip: not *that* something works, but *why* - that's how I ended up rebuilding GPT-2 from scratch on weekends.
+I am an NLP engineer at Artificialy, in Lugano. I work on the production side of large
+language models: making them cheaper to serve through quantization, post-training them for
+specific tasks, and building the evaluation that tells us whether any of it actually
+helped.
 
-The longer version streams token by token at
-**[cris96spa-latent-space.com](https://www.cris96spa-latent-space.com/)**, a site that
-animates a real GPT-2 forward pass because a PDF resume cannot do inference.
+I got here from a small village in the south of Italy, through Politecnico di Milano, where
+I did my master's thesis in reinforcement learning with Professor Restelli, before RL
+became the thing everybody does for post-training. I am the kind of engineer who wants the basic building blocks solid 
+before assembling anything on top, which is why I rebuilt GPT-2 from scratch on weekends instead of reading about it.
+
+The funnier version streams token by token at
+**[cris96spa-latent-space.com](https://www.cris96spa-latent-space.com/)**, empowered by GPT-2 forward pass (PDF resume cannot do inference).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg">
